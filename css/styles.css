@@ -11389,7 +11389,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #000000;
 }
 
 }
@@ -11408,6 +11408,7 @@ p.lead {
 .social-icons .social-icon:last-child {
   margin-right: 0;
   background-color:#FF3CAC;
+  background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
 .social-icons .social-icon:hover {
   background-color:#FF3CAC;
