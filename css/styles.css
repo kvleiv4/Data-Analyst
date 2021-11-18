@@ -229,9 +229,7 @@ sup {
 }
 
 a {
-  background: linear-gradient(#000000, #fc022c);
-  -webkit-background-clip: text;
-  color: transparent;
+  color: #bd5d38;
   text-decoration: underline;
 }
 a:hover {
